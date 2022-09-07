@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.72.245.100:9200"
+  username: "Ruixin"
+  password: "London123"
+
+gcs:
+  bucket: "ruixin-bucket"
+
+token:
+  secret: "secret"
